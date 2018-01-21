@@ -1,0 +1,8 @@
+[submodule "lib/sj-lib-common"]
+	path = lib/sj-lib-common
+	url = https://github.com/justinmann/sj-lib-common.git
+	branch = release-1.0
+[submodule "lib/sj-lib-ui"]
+	path = lib/sj-lib-ui
+	url = https://github.com/justinmann/sj-lib-ui.git
+	branch = release-1.0

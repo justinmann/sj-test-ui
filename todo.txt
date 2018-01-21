@@ -1,12 +1,3 @@
-json parser
-
-root["hello"]?? as json.list
-root.each(^{
-    _1 // member name
-    _2 // member value
-})
-(root["hello"]?? as json.list).each(^{
-    _ // list value
-})
-(root["hello"]?? as json.list)[0]
-
+* text input
+* wrapping text
+* style switch based on #element.type & #element.class
